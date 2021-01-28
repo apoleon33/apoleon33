@@ -1,4 +1,5 @@
-### hello 👋 CUSA05330_00
+### hello 👋 
+
 
 <!--
 **apoleon33/apoleon33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
