@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm apoleon33</h1>
 <h3 align="center">somebody</h3>
 
-- 🔭 I’m currently working on [M-A-P](https://github.com/apoleon33/M-A-P)
+- 🔭 I’m currently working on [M-A-P](https://github.com/apoleon33/M-A-P) and [cdtheque](https://github.com/apoleon33/cdtheque)
 
 - ⚡ Fun fact **im french**
 
