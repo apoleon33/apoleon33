@@ -1,13 +1,3 @@
-<style>
-    #banner{ border-radius: 10px; }
-
-    h1{ color: #443362; }
-    h2{ color:#6B5795; }
-
-    p{ color: #8F7AB8; }
-
-</style>
-
 <img id="banner" src="https://raw.githubusercontent.com/apoleon33/apoleon33/main/assets/banner.png" alt="arduino" />
 
 <br>
@@ -25,6 +15,8 @@ I'm a 17 years old guy from France. Im using a variety of langage and/or framewo
 </p>
 <p align="center">
 <a href="https://github.com/apoleon33/cdtheque"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apoleon33&repo=cdtheque&theme=synthwave"></p></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@579&layout=compact&theme=synthwave" alt="apoleon33" /></p>
 
 <br>
 
@@ -55,5 +47,3 @@ I'm a 17 years old guy from France. Im using a variety of langage and/or framewo
 <a href="https://www.electronjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="electronjs" width="40" height="40"/> </a> 
 <a href="https://reactjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@579&layout=compact&theme=synthwave" alt="apoleon33" /></p>
