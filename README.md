@@ -40,7 +40,6 @@ I'm a 17 years old guy from France. Im using a variety of langage and/or framewo
 </p>
 
 
-<br>
 
 <h2>Frameworks used :</h2>
 
