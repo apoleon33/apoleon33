@@ -13,8 +13,6 @@ I'm a 17 years old guy from France. Im using a variety of langage and/or framewo
 <p align="center">
 <a href="https://github.com/apoleon33/M-A-P"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apoleon33&repo=M-A-P&theme=synthwave"></a>
 </p>
-<p align="center">
-<a href="https://github.com/apoleon33/cdtheque"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apoleon33&repo=cdtheque&theme=synthwave"></p></a>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@579&layout=compact&theme=synthwave" alt="apoleon33" /></p>
 
