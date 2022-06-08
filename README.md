@@ -44,3 +44,9 @@ I'm a 17 years old guy from France. Im using a variety of langage and/or framewo
 <a href="https://www.electronjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" alt="electronjs" width="40" height="40"/> </a> 
 <a href="https://reactjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a>
+
+  
+  
+Time spent coding since May 03 2021:
+  
+ [![wakatime](https://wakatime.com/badge/user/f30b1401-c84a-455c-a952-90c59a25605e.svg?style=for-the-badge)](https://wakatime.com/@f30b1401-c84a-455c-a952-90c59a25605e)
