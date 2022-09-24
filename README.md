@@ -5,7 +5,7 @@
 <h1>Who am I ?</h1>
 <h2>About Me</h2>
 <p align="center">
-I'm a 17 years old guy from France. Im using a variety of langage and/or frameworks, with no specialities or preferences. 
+I'm a 18 years old guy from France. Im using a variety of langage and/or frameworks, with no specialities or preferences. 
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoleon33&layout=compact&theme=synthwave" alt="apoleon33" /></p>
 
