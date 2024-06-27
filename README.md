@@ -1,4 +1,4 @@
-<img id="banner" src="https://raw.githubusercontent.com/apoleon33/apoleon33/main/assets/banner.png" alt="arduino" />
+<p align="center"><img id="banner" src="https://raw.githubusercontent.com/apoleon33/apoleon33/main/banner.png" alt="arduino" /></p>
 
 <br>
 
