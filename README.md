@@ -19,7 +19,7 @@ I'm a 20 years old guy from France. Im using a variety of langage and/or framewo
 </p>
 
 <p align="center"> 
-  Since the 03/05/2021:
+  Since the 3rd of May 2021:
   </p>
 
 <p align="center">
