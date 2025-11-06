@@ -2,7 +2,7 @@
 
 <br>
 
-<h1>Who am I ?</h1>
+<h1>Who I am</h1>
 <h2>About Me</h2>
 <p align="center">
 I'm a 20 years old guy from France, currently studying Robotics @ Junia ISEN. I love mixing electronic with programming, as well as creating user interfaces with dart and Flutter.
@@ -25,6 +25,7 @@ I'm a 20 years old guy from France, currently studying Robotics @ Junia ISEN. I 
 <p align="center">
   <a href="https://wakatime.com/@f30b1401-c84a-455c-a952-90c59a25605e"> <img src="https://wakatime.com/badge/user/f30b1401-c84a-455c-a952-90c59a25605e.svg?style=for-the-badge"></a> </p>
 
-  
+<h2>My recently played tracks</h2>
+<p align="center"><img src="https://lastfm-recently-played.vercel.app/api?user=apoleon33">  </p>
   
 
