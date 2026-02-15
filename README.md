@@ -28,11 +28,20 @@ With my teammate over at Junia, we are currently working on the 🤖<a href="htt
 <p align="center"> 
   Since the 3rd of May 2021, I have coded during:
   </p>
-
+  
+<br/>
 <p align="center">
   <a href="https://wakatime.com/@f30b1401-c84a-455c-a952-90c59a25605e"> <img src="https://wakatime.com/badge/user/f30b1401-c84a-455c-a952-90c59a25605e.svg?style=for-the-badge"></a> </p>
 
-<h2>My recently played tracks</h2>
+<p align="center"><img id="banner" src="https://github.com/apoleon33/apoleon33/blob/main/assets/music.png?raw=true" alt="Banner" height="450"/></p>
+
+<p align="center">I ❤️ heavy music.</p>
+
+<p align="center">
+  <a href="https://www.last.fm/user/apoleon33"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-lastfm.png?raw=true"></a>
+  <a href="https://rateyourmusic.com/~Apoleon33"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-rym.png?raw=true"></a>
+</p>
+
 <p align="center"><img src="https://lastfm-recently-played.vercel.app/api?user=apoleon33">  </p>
   
 
