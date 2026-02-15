@@ -6,7 +6,14 @@
 <p align="center">
 I'm a 20 years old guy from France, currently studying Robotics @ Junia ISEN. I love mixing electronic with programming, as well as creating user interfaces with dart and Flutter.
 </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoleon33&layout=compact&theme=synthwave" alt="apoleon33" /></p>
+<p align="center">
+  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-python(1).png?raw=true">
+  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-svelte(1).png?raw=true">
+  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-matlab(1).png?raw=true">
+  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-dart(1).png?raw=true">
+  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-flutter(1).png?raw=true">
+  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-ros(1).png?raw=true">
+</p>
 
 <h2> What am I working on? </h2>
 <p align="center">
