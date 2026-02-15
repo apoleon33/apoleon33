@@ -4,7 +4,7 @@
 
 <p align="center"><img id="banner" src="https://github.com/apoleon33/apoleon33/blob/main/assets/About%20me.png?raw=true" alt="Banner" height="450"/></p>
 <p align="center">
-I'm a 20 years old guy from France, currently studying Robotics @ Junia ISEN. I love mixing electronic with programming, as well as creating user interfaces with dart and Flutter.
+I'm a 21 years old guy from France, currently studying Robotics @ Junia ISEN. I love mixing electronic with programming, as well as creating user interfaces with dart and Flutter.
 </p>
 <p align="center">
   <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-python(1).png?raw=true">
@@ -13,6 +13,10 @@ I'm a 20 years old guy from France, currently studying Robotics @ Junia ISEN. I 
   <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-dart(1).png?raw=true">
   <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-flutter(1).png?raw=true">
   <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-ros(1).png?raw=true">
+</p>
+
+<p align="center">
+I've been a Linux nerd for over 6 years now, and am currently daily-driving 🌼<a href="https://vanillaos.org/">VanillaOS</a>  as well as 🦅<a href="https://garudalinux.org/">Garuda Linux</a>.
 </p>
 
 <h2> What am I working on? </h2>
