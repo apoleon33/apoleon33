@@ -2,8 +2,7 @@
 
 <br>
 
-<h1>Who I am</h1>
-<h2>About Me</h2>
+<p align="center"><img id="banner" src="https://github.com/apoleon33/apoleon33/blob/main/assets/About%20me.png?raw=true" alt="Banner" height="450"/></p>
 <p align="center">
 I'm a 20 years old guy from France, currently studying Robotics @ Junia ISEN. I love mixing electronic with programming, as well as creating user interfaces with dart and Flutter.
 </p>
