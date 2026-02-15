@@ -19,17 +19,14 @@ I'm a 21 years old guy from France, currently studying Robotics @ Junia ISEN. I 
 I've been a Linux nerd for over 6 years now, and am currently daily-driving 🌼<a href="https://vanillaos.org/">VanillaOS</a>  as well as 🦅<a href="https://garudalinux.org/">Garuda Linux</a>.
 </p>
 
-<h2> What am I working on? </h2>
+<br/>
+<p align="center"><img id="banner" src="https://github.com/apoleon33/apoleon33/blob/main/assets/currently%20working.png?raw=true" alt="Banner" height="450"/></p>
 <p align="center">
-<a href="https://github.com/apoleon33/chessRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apoleon33&repo=chessRobot&theme=synthwave"></a>
-  <a href="https://github.com/apoleon33/orbit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=apoleon33&repo=orbit&theme=synthwave"></a>
-</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@579&layout=compact&theme=synthwave" alt="apoleon33" /> 
+With my teammate over at Junia, we are currently working on the 🤖<a href="https://github.com/project-quanser/projet-quanser">Project Quanser</a>, and I am personnaly working on 🎶<a href="https://github.com/apoleon33/orbit"> Orbit</a>.
 </p>
 
 <p align="center"> 
-  Since the 3rd of May 2021:
+  Since the 3rd of May 2021, I have coded during:
   </p>
 
 <p align="center">
