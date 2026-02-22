@@ -7,12 +7,12 @@
 I'm a 21 years old guy from France, currently studying Robotics @ Junia ISEN. I love mixing electronic with programming, as well as creating user interfaces with dart and Flutter.
 </p>
 <p align="center">
-  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-python(1).png?raw=true">
-  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-svelte(1).png?raw=true">
-  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-matlab(1).png?raw=true">
-  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-dart(1).png?raw=true">
-  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-flutter(1).png?raw=true">
-  <img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-ros(1).png?raw=true">
+  <a href="https://www.python.org/"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-python(1).png?raw=true"></a>
+  <a href="https://svelte.dev/"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-svelte(1).png?raw=true"></a>
+  <a href="https://www.mathworks.com/?s_tid=mlh_gn_logo"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-matlab(1).png?raw=true"></a>
+  <a href="https://dart.dev/"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-dart(1).png?raw=true"></a>
+  <a href="https://flutter.dev/"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-flutter(1).png?raw=true"></a>
+  <a href="https://www.ros.org/"><img src="https://github.com/apoleon33/apoleon33/blob/main/assets/icon-ros(1).png?raw=true"></a>
 </p>
 
 <p align="center">
