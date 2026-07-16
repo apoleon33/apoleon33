@@ -33,6 +33,8 @@ With my teammate over at Junia, we are currently working on the 🤖<a href="htt
 <p align="center">
   <a href="https://wakatime.com/@f30b1401-c84a-455c-a952-90c59a25605e"> <img src="https://wakatime.com/badge/user/f30b1401-c84a-455c-a952-90c59a25605e.svg?style=for-the-badge"></a> </p>
 
+<p align="center"><a href="https://wakatime.com/@f30b1401-c84a-455c-a952-90c59a25605e">  <img src="https://wakatime.com/share/@579/f465f4e1-c598-407d-9e21-800b98497ee3.svg"></a></p>
+
 <p align="center"><img id="banner" src="https://github.com/apoleon33/apoleon33/blob/main/assets/music.png?raw=true" alt="Banner" height="450"/></p>
 
 <p align="center">I ❤️ heavy music.</p>
